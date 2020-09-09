@@ -33,7 +33,7 @@ export class BooksService {
                 .once('value')
                 .then(
                   (data) => {
-                    resolve(data);
+                    resolve(data.val());
                   },
                   (error) => {
                     reject(error);
