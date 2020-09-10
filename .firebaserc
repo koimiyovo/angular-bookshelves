@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "bookshelves-e1257": {
+      "hosting": {
+        "bookshelves": [
+          "bookshelves-e1257"
+        ]
+      }
+    }
+  }
+}
